@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Large datasets
+data/
+*.mrc
+*.mrcs
+*.star
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Experiment outputs
+results/*
+!results/figures/
+!results/metrics/
+
+# OS files
+.DS_Store
+Thumbs.db
