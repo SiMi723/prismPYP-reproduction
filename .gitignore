@@ -30,3 +30,6 @@ results/*
 # OS files
 .DS_Store
 Thumbs.db
+
+# Raw datasets
+data/raw/
